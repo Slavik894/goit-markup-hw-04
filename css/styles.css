@@ -209,6 +209,11 @@ img {
   border: 1px solid #8e8f99;
   border-radius: 4px;
   margin-bottom: 8px;
+  display: flex;
+  justify-content: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  
 }
 
 .advantage {
